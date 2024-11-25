@@ -1,4 +1,4 @@
-# Message Sending Using Signals
+# Minitalk
 
 This project demonstrates how to send a message from a client to a server using Unix signals (`SIGUSR1` and `SIGUSR2`). The client encodes the message into bits and sends each bit as a signal to the server, which then reconstructs and prints the original message.
 
